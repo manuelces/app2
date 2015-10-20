@@ -66,6 +66,7 @@ public class JavaApplication4{
     public static void main(String[] args){
         new JavaApplication4();
         System.out.println("Hola a todos");
+        System.out.println("New Change in document");
     }
     
 }
